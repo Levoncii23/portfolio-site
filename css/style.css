@@ -25,6 +25,7 @@ ul, li {
 .container {
     width: 1170px;
     margin: 0 auto;
+    
 }
 
 header {
@@ -73,6 +74,7 @@ header a {
     align-items: center;
     margin-top: 63px;
     padding-top: 24px;
+    
 
 }
 
@@ -142,3 +144,4 @@ header a {
 .photo {
     display: flex;
 }
+
